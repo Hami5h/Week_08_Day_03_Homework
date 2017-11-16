@@ -59,7 +59,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/rockButton"
-        app:layout_constraintVertical_bias="0.223" />
+        app:layout_constraintVertical_bias="0.175" />
 
     <ImageButton
         android:id="@+id/scissorsButton"
